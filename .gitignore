@@ -1,0 +1,28 @@
+
+# Gradle
+.gradle/
+**/build/
+caches/
+daemon/
+native/
+kotlin-profile/
+wrapper/
+
+# Android Studio
+.idea/
+*.iml
+
+# Local configuration
+local.properties
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Generated files
+*.apk
+*.aab
+*.class
